@@ -57,6 +57,6 @@ default-features = false
 
 #### License
 
-<sup>littlefs is licensed under [BSD-2-Clause][bsd-2-clause], as are these bindings.</sup>
+<sup>micro-ecc is licensed under [BSD-2-Clause][bsd-2-clause], as are these bindings.</sup>
 
 [bsd-2-clause]: https://github.com/kmackay/micro-ecc/blob/master/LICENSE.txt
